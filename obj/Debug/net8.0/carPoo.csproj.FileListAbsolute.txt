@@ -1,0 +1,4 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carPoo\obj\Debug\net8.0\carPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carPoo\obj\Debug\net8.0\carPoo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carPoo\obj\Debug\net8.0\carPoo.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carPoo\obj\Debug\net8.0\carPoo.csproj.CoreCompileInputs.cache
